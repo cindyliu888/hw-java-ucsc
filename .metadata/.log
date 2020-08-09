@@ -34,3 +34,8 @@ Binding(COMMAND+SHIFT+T,
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2020-08-09 22:45:54.193
 !MESSAGE The project description file (.project) for 'TestProject' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2020-08-09 22:50:54.444
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-08-09 22:50:54.445
+!MESSAGE The project description file (.project) for 'TestProject' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
